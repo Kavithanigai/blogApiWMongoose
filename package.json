@@ -1,0 +1,22 @@
+{
+  "name": "blogapiwmongoose",
+  "version": "1.0.0",
+  "description": "blog api with mongoose challenge",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongoose"
+  ],
+  "author": "KT",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^5.0.6",
+    "morgan": "^1.7.0",
+    "uuid": "^3.2.1"
+  }
+}
